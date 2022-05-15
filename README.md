@@ -23,9 +23,9 @@ If all boxes are on storage locations, the player wins and the program must retu
 1Otherwise, if none of the boxes can be moved anymore, he loses and the program must return 1.<br><br>
 The game must be reset by pressing the space bar.<br><br>
 Redimensioning the terminal must be handled. As long as the terminal is too small to display the whole
-map, a centered message, asking the user to enlarge the terminal, must be displayed.<br>
-The game must be able to be played with the arrow keys (LEFT, RIGHT, UP and DOWN).<br>
-A valid map can only contains the characters SPACE, ‘\n’, ‘#’, ‘X’, ‘O’ and ‘P’.<br>
+map, a centered message, asking the user to enlarge the terminal, must be displayed.<br><br>
+The game must be able to be played with the arrow keys (LEFT, RIGHT, UP and DOWN).<br><br>
+A valid map can only contains the characters SPACE, ‘\n’, ‘#’, ‘X’, ‘O’ and ‘P’.<br><br>
 If an invalid map is supplied, the program must exit with an error.<p>
 
 # Usage
