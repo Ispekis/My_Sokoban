@@ -1,0 +1,6 @@
+*~
+*.o
+libmy.a
+my_sokoban
+mr_clean
+vgcore*
